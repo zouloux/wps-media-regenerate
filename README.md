@@ -1,4 +1,4 @@
-# WPS - Captcha
+# WPS - Media regenerate Wordpress plugin
 
 Will add a page in Wordpress admin to trigger all uploads regeneration.
 Heavily inspired from [Regenerate Thumbnails plugin](https://wordpress.org/plugins/regenerate-thumbnails/) but way simpler.  
